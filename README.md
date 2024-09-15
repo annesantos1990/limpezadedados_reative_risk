@@ -486,12 +486,7 @@ JOIN aggregated_loans_details ON default_table.user_id = aggregated_loans_detail
 Ao unificar as tabelas, a tabela resultante apresentou 35.575 linhas, ou seja, 425 linhas a menos. Isso ocorreu porque a tabela loan_outstanding, que contém as informações sobre quantos empréstimos cada cliente fez e o tipo de empréstimo, não inclui todos os clientes (user_id) das outras tabelas.
 
 
-
-</details>
-<details> <summary> <h2> Análise Exploratória dos Dados</h2>  - Clique em ▶ para ver os detalhes </summary> 
-
-### Medidas de Tendência Central
-
+<h2> Análise Exploratória dos Dados</h2> 
 
 Os detalhes da análise exploratória, poderá ser visto na Seção **Resultados e Discussão**.
 
